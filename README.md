@@ -8,6 +8,8 @@ This project utilizes Power BI to create a multi-dimensional dashboard offering 
 
 ### Info
 - **User Manual:** Provides instructions and key information about using the dashboard.
+  <img width="599" alt="Home" src="https://github.com/ShamliBajad/business-360-insights-powerBI/assets/169564441/1650e3b6-46eb-4feb-b895-a1b2e66b0baa">
+
 
 ### Finance View
 - **P & L Statement:** Displays profit and loss statements for any customer, product, country, or aggregated views over any time period.
@@ -20,6 +22,9 @@ This project utilizes Power BI to create a multi-dimensional dashboard offering 
 
 ### Marketing View
 - **Product Performance Analysis:** Analyzes product performance over key metrics like Net Sales, Gross Margin, and profitability/growth matrix.
+
+<img width="600" alt="supply chain view" src="https://github.com/ShamliBajad/business-360-insights-powerBI/assets/169564441/d1eaa393-d7bc-48e0-9bab-9f6687090e6f">
+
 
 ### Supply Chain View
 - **Forecast Accuracy:** Displays forecast accuracy, net error, and risk profiles for products, segments, categories, and customers.
