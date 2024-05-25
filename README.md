@@ -15,6 +15,9 @@ This project utilizes Power BI to create a multi-dimensional dashboard offering 
 ### Sales View
 - **Customer Performance Analysis:** Analyzes performance over key metrics like Net Sales, Gross Margin, and Net Profit. Provides insights into profitability and growth.
 
+<img width="599" alt="sales view" src="https://github.com/ShamliBajad/business-360-insights-powerBI/assets/169564441/37d882e3-bb8c-45c6-b337-6862d4196929">
+
+
 ### Marketing View
 - **Product Performance Analysis:** Analyzes product performance over key metrics like Net Sales, Gross Margin, and profitability/growth matrix.
 
